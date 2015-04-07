@@ -1,0 +1,24 @@
+{
+  "name": "event-analysis",
+  "version": "0.0.0",
+  "description": "Doing some analysis on events on Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techatnyu/event-analysis.git"
+  },
+  "author": "Tech@NYU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techatnyu/event-analysis/issues"
+  },
+  "homepage": "https://github.com/techatnyu/event-analysis",
+  "dependencies": {
+    "fbgraph": "^0.3.0",
+    "q": "^1.2.0",
+    "request": "^2.55.0"
+  }
+}
