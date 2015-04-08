@@ -12,7 +12,9 @@ Can we ask our data questions like
   - There's many scenerios to think about here!
 - How can we make the marketing better? What's been the best events for this particular intiative? 
 
-Doing some analysis on events on Facebook
+NOW. How can be implement all this? We have most of the data - we just need to figure out how to grade it and boil it down into something that's understandable.
+
+The aim here is to make a feedback loop for people to understand how they did. Right now we have events that our one-off because they don't give us feedback. People give us feedback - but not our metrics. People can think the speaker was great - oh well not many people showed up. But numbers don't lie!
 
 ####Data we have####
 
