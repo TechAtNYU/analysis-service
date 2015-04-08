@@ -11,6 +11,8 @@ Can we ask our data questions like
   - If the ratio of people who invited people to the event was fair compared to the people who RSVP'd then - that's positive. That means we've invited the right people.
   - There's many scenerios to think about here!
 - How can we make the marketing better? What's been the best events for this particular intiative? 
+  - What marketing works for which events? Does newsletters do a lot of marketing for us for HackDays vs Meetup vs Facebook vs CS mailing list at Courant ?
+- Why is the percentage of the people who show up at our events declining?
 
 Asking questions to social media
 
