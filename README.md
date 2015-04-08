@@ -29,6 +29,11 @@ The aim here is to make a feedback loop for people to understand how they did. R
 - Talking to them/Feedback
 - Meetup RSVPs/People in our Meetup Group
 
+
+####Data we can get####
+
+- Feedback from members. Rate this event out of X? Or give us verbal feedback?
+
 ####Process#
 
 Pre-event
