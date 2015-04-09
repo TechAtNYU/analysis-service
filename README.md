@@ -7,6 +7,12 @@ The question is. How can we evaluate our events? We have this incoming data from
 Can we ask our data questions like
 
 - Given how many people we invited to the event, how many people RSVP'd, and how many people showed up - can we improve anything in our marketing?
+
+- Action items:
+  - track in api who was invited, who rsvpd, and who showed up
+  - best practice: members should create fb lists for inviting relevant people
+  - some documentation of marketing avenues? (tagged by initiative)
+
   - If the ratio of people who invited people to the event was high compared to people who RSVP'd then it means that it's a smaller market, and now many people like this event. This clearly means we've to change something - or just suggests we're shooting for a smaller demographic. Also could mean the time isn't great! Also could mean that we've just invited the wrong people. All signs of pivot in marketing.
   - If the ratio of people who invited people to the event was fair compared to the people who RSVP'd then - that's positive. That means we've invited the right people.
   - There's many scenerios to think about here!
