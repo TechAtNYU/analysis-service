@@ -10,7 +10,7 @@ Can we ask our data questions like
 
 Can we predict how many people are expected to show up?
 
-- Number people who have come to the event in the past who are not e-board members * 0.5 + Number of people who are new * 0.25 + Number of people who are e-board members who are coming * 0.2?
+- Number people who have come to the event in the past who are not e-board members * 0.5 + Number of people who are new * 0.25 - Number of people who are e-board members who have clicked RSVP?
 
 - Action items:
   - track in api who was invited, who rsvpd, and who showed up
