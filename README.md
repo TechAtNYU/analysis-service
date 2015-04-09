@@ -8,6 +8,10 @@ Can we ask our data questions like
 
 - Given how many people we invited to the event, how many people RSVP'd, and how many people showed up - can we improve anything in our marketing?
 
+Can we predict how many people are expected to show up?
+
+- Number people who have come to the event in the past * 0.5 + Number of people who are new * 0.25?
+
 - Action items:
   - track in api who was invited, who rsvpd, and who showed up
   - best practice: members should create fb lists for inviting relevant people
