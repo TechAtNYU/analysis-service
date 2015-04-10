@@ -18,8 +18,9 @@
   "homepage": "https://github.com/techatnyu/event-analysis",
   "dependencies": {
     "fbgraph": "^0.3.0",
+    "mailchimp-api": "*",
     "q": "^1.2.0",
     "request": "^2.55.0",
-    "mailchimp-api": "*"
+    "request-promise": "^0.4.1"
   }
 }

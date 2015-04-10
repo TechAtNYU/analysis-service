@@ -1,5 +1,14 @@
 # event-analysis
 
+####Data we have####
+
+- Facebook Event
+- API Checkins
+- Twitter
+- Talking to them/Feedback
+- Meetup RSVPs/People in our Meetup Group
+- Mailchimp newsletter
+
 The question is. How can we evaluate our events? We have this incoming data from a variety of sources. 
 
 - Can we score events? Can we give them a percentage/grade of some sort?
@@ -32,15 +41,6 @@ Asking questions to social media
 NOW. How can be implement all this? We have most of the data - we just need to figure out how to grade it and boil it down into something that's understandable.
 
 The aim here is to make a feedback loop for people to understand how they did. Right now we have events that our one-off because they don't give us feedback. People give us feedback - but not our metrics. People can think the speaker was great - oh well not many people showed up. But numbers don't lie!
-
-####Data we have####
-
-- Facebook Event
-- API Checkins
-- Twitter
-- Talking to them/Feedback
-- Meetup RSVPs/People in our Meetup Group
-
 
 ####Data we can get####
 
