@@ -1,12 +1,14 @@
+'use strict';
+
 var Q = require('q');
 var mcapi = require('./node_modules/mailchimp-api/mailchimp');
-mc = new mcapi.Mailchimp(process.env.MailChimpAPI);
+var mc = new mcapi.Mailchimp(process.env.TNYUMailChimpAPI);
 
 var GetAllReports = function() {
 	return Q.Promise(function(resolve, reject, notify) {
 		mc.campaigns.list({'status':'sent'}, function(campaignData) {
 			resolve(campaignData);
-		}, function(error){
+		}, function(error) {
 			reject(error);
 		});
 	});
@@ -25,10 +27,10 @@ var GetReportsById = function(id) {
 	});
 };
 
-GetReportsById('37bdafc2cd')
-	.then(function(data){
-		console.log(data.report);
+GetAllReports()
+	.then(function(data) {
+		console.log(data.data[0]);
 	})
-	.catch(function (error) {
+	.catch(function(error) {
 		console.log(error);
 	});
